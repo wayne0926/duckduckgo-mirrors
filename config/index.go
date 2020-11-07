@@ -27,11 +27,11 @@ handle_cookie: True
 
 host:
   self: pppppppp.wr0926.ml
-  proxy: bing.com
+  proxy: duckduckgo.com
 
 replaced_urls:
   - old: cn.pornhub.com
-    new: bing.com
+    new: duckduckgo.com
 `
 var Config *Yaml
 var Protocal string
