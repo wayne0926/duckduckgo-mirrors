@@ -26,12 +26,12 @@ enable_ssl: True
 handle_cookie: True
 
 host:
-  self: pppppppp.wr0926.ml
+  self: duck.wr0926.ml
   proxy: duckduckgo.com
 
 replaced_urls:
-  - old: cn.pornhub.com
-    new: duckduckgo.com
+  - old: duckduckgo.com
+    new: duck.wr0926.ml
 `
 var Config *Yaml
 var Protocal string
