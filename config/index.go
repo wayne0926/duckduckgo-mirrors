@@ -27,11 +27,11 @@ handle_cookie: True
 
 host:
   self: pppppppp.wr0926.ml
-  proxy: cn.pornhub.com
+  proxy: bing.com
 
 replaced_urls:
   - old: cn.pornhub.com
-    new: pppppppp.wr0926.ml
+    new: bing.com
 `
 var Config *Yaml
 var Protocal string
