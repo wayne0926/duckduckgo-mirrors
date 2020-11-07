@@ -26,12 +26,12 @@ enable_ssl: True
 handle_cookie: True
 
 host:
-  self: mirror.loerfy.now.sh
-  proxy: www.google.com
+  self: pppppppp.wr0926.ml
+  proxy: cn.pornhub.com
 
 replaced_urls:
-  - old: www.google.com
-    new: mirror.loerfy.now.sh
+  - old: cn.pornhub.com
+    new: pppppppp.wr0926.ml
 `
 var Config *Yaml
 var Protocal string
